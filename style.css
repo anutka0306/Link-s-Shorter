@@ -1,0 +1,40 @@
+body{
+	width:80%;
+	margin:0 auto;
+	font-family:Verdana;
+}
+form{
+	width:80%;
+	margin:0 auto;
+	text-align:center;
+	margin-top:50px;
+	font-size:16px;
+}
+form input{
+	font-size:13px;
+}
+h1{
+	text-transform: uppercase;
+	font-size:24px;
+	color:#454e66;
+	text-align: center;
+	margin-top:30px;
+}
+#display{
+	width:80%;
+	margin:0 auto;
+	color:#80362c;
+	margin-top:30px;
+	text-align: center;
+	font-weight:bold;
+}
+#display span{
+	font-size:11px;
+	margin-top:30px;
+}
+a.disabled {
+    pointer-events: none;
+    cursor: default; 
+    color: #999;
+}
+
