@@ -1,1 +1,2 @@
-# Link-s-Shorternew commit
+# Link-s-Shorter
+Program for shortening links.
